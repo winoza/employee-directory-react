@@ -15,7 +15,7 @@ npm i
 Once the node packages are installed, you may run
 
 ```
-npm start
+npm run start
 ```
 
 ## Contact
